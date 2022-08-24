@@ -18,6 +18,9 @@ La ciencia de datos es una de las disciplinas mas de moda de los ultimos años, 
 
 **[Data science para la escuela](#data-science-escuela)**: Recursos para explicar machine learning y estadistica a los mas jovenes. A partir de 12- 13 años son recursos que pueden usar los profesores para explicar ciertos conceptos de estadistica o ver que cosas se pueden hacer con machine learning e inteligencia artificial, y que alguna vez hemos utilizado en charlas para colegios.
 
+**[Eventos](#eventos)**: Eventos relacionados con machine learning
+
+
 
 
 ## Libros gratuitos
@@ -330,3 +333,17 @@ En esta seccion iremos poniendo que herramientas o web son interesantes para que
 [Escribe a mano y pasalo a LaTex](https://mathpix.com/): Programa para pasar formulas escritas manualmente a formato LaTex. Tiene una version gratuita de 50 al mes
 
 
+
+## Eventos
+
+[Big Data Spain](https://www.bigthingsconference.com/) (ahora Big Things): Uno de los eventos mas conocidos, donde se habla de todo lo relacionado con datos. Interesante que dejan todos sus videos en un [canal de youtube](https://www.youtube.com/user/BigDataSpain/videos), por si os habeis perdido alguno
+
+[Pycon](http://pycon.org/#regional-events): Para los amantes de python, contiene muchas charlas sobre datos, y también sobre otros temas como por ejemplo programación web
+
+[Jornadas de R](http://r-es.org/): Para los seguidores de R, jornadas donde se reunen los usuarios de este lenguaje de programación y se cuentan los ultimos avances en R
+
+[Spark AI Summit](https://databricks.com/sparkaisummit/europe): Uno de los eventos más conocidos a nivel europeo. Gira entorno a spark, pero muy interesante ver sus evoluciones en machine learning y casos de uso
+
+[Amazon Web Services](https://aws.amazon.com/es/events/summits/madrid/): Summit sobre el evento de esta plataforma en la nube
+
+[Meetup](http://meetup.com/): Página que relaciona gente con intereses comunes. Buscar grupos como el de machine learning spain, inteligencia artificial, Databeers. Hacen eventos donde dan conferencias sobre el análisis de datos y normalmente al final dan cerveza y pizza
