@@ -17,9 +17,9 @@ Nuestras secciones:
 
 **[Blogs](#blogs)**: Blogs y webs con recursos que seguimos para poder estar al dia profesionalmente
 
-**[Covid-19(#covid-19)]**: Recopilatorio de datos, análisis y y artículos sobre covid-19
+**[Covid-19](#covid-19)]**: Recopilatorio de datos, análisis y y artículos sobre covid-19
 
-**[Data science para la escuela(#data-science-escuela)**: Recursos para explicar machine learning y estadistica a los mas jovenes. A partir de 12- 13 años son recursos que pueden usar los profesores para explicar ciertos conceptos de estadistica o ver que cosas se pueden hacer con machine learning e inteligencia artificial, y que alguna vez hemos utilizado en charlas para colegios.
+**[Data science para la escuela](#data-science-escuela)**: Recursos para explicar machine learning y estadistica a los mas jovenes. A partir de 12- 13 años son recursos que pueden usar los profesores para explicar ciertos conceptos de estadistica o ver que cosas se pueden hacer con machine learning e inteligencia artificial, y que alguna vez hemos utilizado en charlas para colegios.
 
 
 
@@ -159,10 +159,75 @@ Nuestras secciones:
 
 ## Operativizacion
 
+En este apartado hablaremos de uno de los temas mas actuales que hay ahora en las empresas, la operativización. Comentaremos recursos que hemos visto interesante y frameworks de operativización que van publicando diferentas empresas
+
+[Todo sobre MLOps](http://ml-ops.org/): Excelente recopilacion sobre MLOps, articulos, herramirntas
+
+[Comunidad de MLOps](https://open.spotify.com/show/7wZygk3mUUqBaRbBGB1lgh): comunidad en Spotify sobre MLOps donde tratan una gran variedad de temas relacionados con la operativización de modelos
+
+[Operativización de Groupon](https://www.youtube.com/watch?v=Kj9B71zLthg): En este caso, groupon nos ofrece un video muy bueno sobre como operativizan ellos los modelos
+
+[Paper sobre MLOps de google](http://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf): Famoso paper de Google que inspira los frameworks de operativizacion
+
+[Awesome MLOps](https://github.com/visenger/awesome-mlops): Recopilacion de recursos sobre MLOps
+
+[Comparativa de librerias para AnalitycOps](https://martinfowler.com/articles/cd4ml.html): Articulo sobre operativización de modelos donde se comentan los pasos que hay que tomar y las distintas librerias qye hay en caso de que queramos construir nuestro propio framework. Un articulo que vale oro para los machine learning engineer o todos los que se dediquen a operativización de modelos
+
+[Test para analitica](https://research.google/pubs/pub46555/): Paper de google con recomendaciones sobre test a realizar para el paso a producci´pn de modelos
+
+[Blog sobre operativización](https://mlinproduction.com/deploying-machine-learning-models/): Interesante blog sobre los pasos para pasar un modelo a producción
+
+[Orpheus](https://www.researchgate.net/publication/343253553_Orpheus_A_New_Deep_Learning_Framework_for_Easy_Deployment_and_Evaluation_of_Edge_Inference): Framework para realizar modelos con Edge Computing
+
+[Michelangelo](https://martinfowler.com/articles/cd4ml.html): Framework de operativización de UBER. Soporta MLLib, XGBOOST y Tensorflow
+
+[Alink](https://github.com/alibaba/Alink/blob/master/README.en-US.md): Plataforma de machine learning de Alibaba. Basada en flink
+
+[Metaflow](https://github.com/Netflix/metaflow): Framework de netflix para el manejo de proyectos de data science
+
 ## Blogs
 
 ## Covid 19
 
 ## Data Science Escuela
+
+En esta seccion iremos poniendo que herramientas o web son interesantes para que los estudiantes vayan cogiendo el gusto por los datos y la estadistica
+
+[Que se de tu imagen](http://cloud.google.com/vision/): sube una foto en el apartado de «Try The API» y verás todo lo que Google puede saber de una foto
+
+
+[Google trends](https://trends.google.es/trends/?geo=ES): Una de las herramientas de google. Puedes poner terminos de busqueda y ver como es su evolución temporal de busqueda. Muy interesante para aprender a interpretar gráficas, estacionalidades, anomalías. Un ejemplo es que los alumnos busquen por sus futbolistas favoritos, por ejemplo Messi y Ronaldo, o sus grupos de musica favoritos. Da eleccion de buscar por zonas geográficas o por diferentes horizontes de tiempo.
+
+
+[Learningml](https://learningml.org/): Si eres de los que aprendió o enseña a aprender con Scratch, échale un vistazo a esto
+
+[Wordclouds](http://www.wordclouds.com/): Una herramienta para realizar graficos donde se introduce un texto y se dibujan las palabras tan grandes como su frecuencia de aparición. Permite diferentes formas.
+
+
+[Pictionary automático](https://quickdraw.withgoogle.com/): Dibuja un objeto y deja que Google adivina lo que estás dibujando
+
+
+[Teachable machine learning](https://teachablemachine.withgoogle.com/): Iniciativa de google para mostrar como puede aprender un algoritmo de imagenes. Con solo una webcam puedes ver como aprende la vision artificial a reconocer objetos
+
+[Scroobly](https://scroobly.com/): Realiza un dibujo y animalo con tus movimientos
+
+[Experimenta con google](https://experiments.withgoogle.com/collection/ai): Recopilación de experimentos con IA, dibuja, canta, muevete,… y aprende Inteligencia Artificial
+
+[Tu personalidad](https://personality-insights-demo.ng.bluemix.net/): Demo de IBM de detección de tu personalidad por lo que escribes. Prueba a introducir tu propio texto en el apartado fragmentos de texto y ve que resultados saca
+
+
+[Redes neuronales](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.68852&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false): juega con esta interfaz a resolver problemas de clasificación con redes neuronales. Mete más o menos capas y neuronas para ver cómo se resuelve el problema
+
+[Akinator](http://es.akinator.com/): Piensa en un personaje y la inteligencia artificial adivinara quién es en pocos pasos
+
+
+[Facebook data evaluation tool](https://fdvt.org/): Una herramienta para ser consciente de que valor tienen tus datos. En función de tu perfil y tú actividad, veras el valor que proporcionas a Facebook.
+
+
+[Microsoft Math Solver]: Aplicación para resolver ecuaciones con una foto. Lo más interesante aquí es el reconocimiento de imágenes para poder escribir la ecuación.
+
+[Wolfram te responde](http://wolframalpha.com/): Interesante página donde en un buscador puedes hacer preguntas. Las preguntas deben ser en inglés. Prueba a ver si conoce tu respuesta. Interesante también las cosas que hace con las funciones matemáticas. Pruébalo
+
+[Escribe a mano y pasalo a LaTex](https://mathpix.com/): Programa para pasar formulas escritas manualmente a formato LaTex. Tiene una version gratuita de 50 al mes
 
 
