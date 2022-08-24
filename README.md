@@ -3,9 +3,6 @@
 
 La ciencia de datos es una de las disciplinas mas de moda de los ultimos años, y una de las que tiene mas proyección a corto plazo en todas las empresas y organizaciones.
 
-Nuestras secciones:
-
-
 
 **Sumario**
 
@@ -17,7 +14,7 @@ Nuestras secciones:
 
 **[Blogs](#blogs)**: Blogs y webs con recursos que seguimos para poder estar al dia profesionalmente
 
-**[Covid-19](#covid-19)]**: Recopilatorio de datos, análisis y y artículos sobre covid-19
+**[Covid-19](#covid-19)**: Recopilatorio de datos, análisis y y artículos sobre covid-19
 
 **[Data science para la escuela](#data-science-escuela)**: Recursos para explicar machine learning y estadistica a los mas jovenes. A partir de 12- 13 años son recursos que pueden usar los profesores para explicar ciertos conceptos de estadistica o ver que cosas se pueden hacer con machine learning e inteligencia artificial, y que alguna vez hemos utilizado en charlas para colegios.
 
@@ -63,7 +60,6 @@ Nuestras secciones:
 
 [DataScience Central](https://www.datasciencecentral.com/profiles/blogs/50-free-data-science-books): Lista de libros gratuitos publicados por data science central
 
-
 [Deep learning book](http://deeplearningbook.org/):Libro del MIT sobre Deep learning explicando los principales modelos con deep learning como CNN, autoencoders, RNN,…
 
 [Profundiza en Deep Learning](https://d2l.ai/d2l-en.pdf): Libro de casi 1.000 páginas sobre Deep Learning y sus principales aplicaciones
@@ -78,7 +74,6 @@ Nuestras secciones:
 
 [Libro series temporales](https://otexts.com/fpp2/#): Libro sobre las series temporales desde un punto de vista clásico, dónde se ven los modelos ARIMA
 
-
 [Matemáticas para Machine Learning](http://gwthomas.github.io/docs/math4ml.pdf): Interesante libro sobre conceptos de álgebra, cálculo y probabilidad básicos para machine learning
 
 [Más matematicas](https://mml-book.github.io/book/mml-book.pdf): otro libro sobre las matemáticas básicas para entender el Machine Learning
@@ -91,16 +86,15 @@ Nuestras secciones:
 
 [Álgebra lineal aplicada](https://web.stanford.edu/~boyd/vmls/)
 
-
 [Spark con R](https://therinspark.com/index.html): Libro sobre cómo usar spark con R. Amplio temario incluyendo temas como yarn o kubernetes. Ejemplos de codigo.
 
 [Data engineering cookbok](https://github.com/andkret/Cookbook): Libro sobre lo esencial de data engineering, mapreduce, spark, Kafka,…
 
 
+
 ## Formacion
 
 [The age of I.A.](https://www.youtube.com/watch?v=UwsrzCVZAb8&feature=youtu.be): Documental de youtube sobre Inteligencia Artificial presentado por Robert Downey Jr.
-
 
 [Python y análisis de datos](https://github.com/koldLight/curso-python-analisis-datos): Curso que nos ofrece Luz Frias Díaz sobre Python y análisis de datos. Ofrece aprenderlo en 24 horas.
 
@@ -140,7 +134,6 @@ Nuestras secciones:
 
 [Curso de git](https://www.youtube.com/watch?v=jSJ8xhKtfP4&list=PLTd5ehIj0goMCnj6V5NdzSIHBgrIXckGU): Tutorial en youtube de Git. Git es un software de control de versiones. Su fin es que podamos compartir código entre distintas personas y almacenar distintas versiones del código.
 
-
 [Pluralsight](https://www.pluralsight.com/): Por 26 euros al mes te da acceso a un montón de cursos tecnológicos, entre ellos cursos de machine learning
 
 [Coursera](http://www.coursera.org/):Una de las páginas mas interesantes para formarte online. Empezó ofreciendo cursos gratuitos y pagando solo por el certificado. Ahora da gratis 7 días y luego hay que pagar para poder continuar
@@ -156,6 +149,8 @@ Nuestras secciones:
 [Edureka](https://www.edureka.co/?utm_source=google&utm_medium=cpc&utm_campaign=Brand-Search-Other-Countries&gclid=Cj0KCQiAovfvBRCRARIsADEmbRLCHvxIcqYMN6BwFR3Z4KwE4SfnAYsYXXKYZp0S-kzJnEWC7S_GZRgaAvuuEALw_wcB):Plataforma online con cursos sobre tecnologías y que te permite sacar certificados
 
 [Simplilearn](https://www.simplilearn.com/):Otra plataforma interesante para sacar certificados tecnologicos
+
+
 
 ## Operativizacion
 
@@ -185,9 +180,120 @@ En este apartado hablaremos de uno de los temas mas actuales que hay ahora en la
 
 [Metaflow](https://github.com/Netflix/metaflow): Framework de netflix para el manejo de proyectos de data science
 
+
+
 ## Blogs
 
+Aqui se mostraran los enlaces a blogs, webs y canales mas interesantes sobre el data science con una pequeña descripción sobre lo que podrás encontrar en ellos
+
+[Papers with Code](https://paperswithcode.com/sota): Artículos científicos sobre machine learning, y ejemplos de código que lo ejecutan. Una de las páginas mas interesantes para estar a la última de machine learning
+
+[ML Aplicado](https://github.com/eugeneyan/applied-ml): Interesante recopilacion de recursos sobre como productivizar distintos proyectos de machine learning
+
+[Recopilación chuletarios IA](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-science-pdf-f22dc900d2d7): Recopilación de los comandos más usados para Machine Learning e IA. Aquí sobre [matplotlib](https://github.com/matplotlib/cheatsheets)
+
+[Recopilación de Notebooks en Python](https://github.com/donnemartin/data-science-ipython-notebooks): Donne Martín nos ofrece una recopilación de Notebook con ejemplos de Scikit Learn, Deep Learning, Numpy, Scipy,… incluso algunos en la nube. Muy completa colección de notebooks
+
+[Quiz de R](https://quizr.io/?code=4c8a2c21): Comprueba cuanto sabes sobre R
+
+[Pytorch](https://github.com/ritchieng/the-incredible-pytorch): Recopilación de tutoriales, ejemplos, papers,… Muy completo para principiantes y para usuarios avanzados de pytorch
+
+[Buscador de datasets](https://datasetsearch.research.google.com/): Si estás buscando datasets para poder practicas o completar tus datos para un proyecto, Google ha sacado un buscador de datasets publicos. Pruebalo
+
+[Casos de uso](https://github.com/firmai/industry-machine-learning): Interesante recopilación de casos de uso por industria
+
+[Visualizaciones de textos](https://textvis.lnu.se/): Recopilacion sobre visualizaciones que se pueden realizar al analizar textos
+
+[MadeWithML](http://madewithml.com/): Pagina para compartir recursos sobre machine learning. Interesante porque podras encontrar mucho código y aplicaciones.
+
+[Data Science Scoop](https://github.com/datasciencescoop): Recopilacion de tutoriales y recursos interesantes para aprender ML
+
+[Algoritmos en Python](https://github.com/TheAlgorithms): Lista de algoritmos en Python y como se pueden programar. Muy interesante para entenderlos si quieres profu
+
+[Podcast de analitica](https://www.ivoox.com/podcast-arte-medir_sq_f1315496_1.html): La consultora el arte de medir lleva este podcast dónde hay charlas sobre analítica. Muy centrado en analítica digital.
+
+[Hablando en data](https://www.youtube.com/channel/UCoDZO0dHV8WKao3zjnfNzIQ): Nuestro canal de Youtube donde iremos hablando de temas relacionados con el data science, conceptos, eventos, entrevistas,…
+
+[Big Data Magazine](https://bigdatamagazine.es/): Revista de actualidad sobre Big Data en español
+
+[Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg): Canal de Youtube donde de habla de Inteligencia Artificial. Tiene videos explicativos de algoritmos y comentarios de noticias.
+
+[GeeksForGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ): Canal de Youtube con vídeos sobre machine learning, más orientado a la programación.
+
+[Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ): Canal de Youtube con vídeos sobre machine learning, con una gran cantidad de vídeos sobre conceptos y como implementarlos
+
+[Krish Naik](https://www.youtube.com/user/krishnaik06): Divulgador de ciencia de datos con un interesante canal de
+
+[Intellipat](https://www.youtube.com/user/intellipaaat): Canal de Youtube con tutoriales de Machine Learning
+
+[KDNuggets](https://www.kdnuggets.com/): Pagina en ingles con artículos sobre data science, machine learning e inteligencia artificial. Interesante un enlace sobre una recopilación de datasets publicos y otro sobre certificados que te puedes sacar, ademas de eventos. Esta mas orientado a EEUU y una de las cosas mas interesantes bajo nuestro punto de vista son encuestas a data scientist que sacan sobre los lenguajes, herramientas, algoritmos,… mas usados,para poder ver tendencias de por donde va el camino del data science
+
+[Journal of machine learning research](http://www.jmlr.org/): Para los mas atrevidos, y los que quieran profundizar mas en los algoritmos, esta pagina recopila un monton de articulos academicos para entender con todo detalle la estadistica y el funcionamiento de los algoritmos
+
+[Arxiv](https://arxiv.org/): Acceso gratuito a mas de un millos de papers, entre los que hay muchos dedicados a las matemáticas, estadistica y ciencias de la computación. Hay muchos papers de google que luego se han convertido en tecnologías propias de big data.
+
+[Repositorio de data science](https://github.com/academic/awesome-datascience/blob/master/README.md): Recopilatorio en ingles de libros, revistas,podcast, canales de telegram, tutoriales,..
+
+[Data science central](https://www.datasciencecentral.com/): Otro de los blogs mas conocidos sobre data science y a los que teneis que estar suscritos para estar al dia. Vienen muchos casos de uso y articulos con ejemplos de como se resuelven y códigos de programación que merece la pena seguir
+
+[Medium para data science](https://medium.com/topic/data-science) : Medium es un servicio de publicacion de blogs, donde podemos encontrar de todo, pero en este caso el de data science es uno de los mas seguidos por la comunidad de científicos de datos, y se publican un montón de articulos interesantes con la forma de resolver muchos problemas en lenguajes como R o Python
+
+[Kaggle](https://www.kaggle.com/): Una de las paginas mas conocidas por los científicos de datos. Es una pagina donde empresas ponen sus problemas y datasets para resolverlos, y dan premios a los que mejor lo resuelvan. Aparte de los incentivos de los premios, muy interesante para coger códigos de como se resuelven los problemas que altruistamente cuelgan de la pagina muchos colaboradores.
+
+[Data Mining group](http://dmg.org/): Consorcio independiente donde se define los estandares sobre el machine learning. Generan estandares tan importantantes como PMML y PFA, que ahora estan tan de moda para la operativización de modelos. Para los que no lo conozcan, son estandares para que se puedan exportar modelos de unos lenguajes de programación a otros
+
+[Todo BI](https://todobi.com/): Interesante página sobre el business intelligence. Los precursores de todo esto que ha surgido y ahora llamamos data science, machine learning o inteligencia artificial
+
+[Towards data science](https://towardsdatascience.com/): Otra de las páginas a seguir, dónde los usuarios comparten ideas, conceptos y códigos
+
+[Analytics vidhya](https://www.analyticsvidhya.com/about-me/): Blog para difundir el conocimiento de la analítica. A seguir para estar al día de las últimas novedades
+
+
+[Datanalitycs](https://www.datanalytics.com/): LLevado por Carlos J.Gil Bellosta. Fue presidente de R en España y una de las personas a seguir en el mundo de la estadistica en España
+
+[Muestrear no es pecado](https://muestrear-no-es-pecado.netlify.com/): Lo escribe el gran Jose Luis Cañadas. Amante de las estadistica, con comentarios mordaces.
+
+[Analisis y decision](https://analisisydecision.es/): Raul Vaquerizo lleva este blog. Una de las personas a seguir por sus conocimientos de machine learning. Gran experiencia en empresas
+
+[Aprende SAS](http://aprendesas.blogspot.com/): Coordinado por Juan Vidal. Gran divulgador de todo lo relacionado con Machine Learning
+
+[Blog de R](http://blog-r.es/) Blog sobre cómo hacer visualizaciones y modelos estadísticos en R de Tomás Castaño Baena y Sergio Campos Moreno
+
+
+
 ## Covid 19
+
+[COVID-19 Resources](http://www.data4sdgs.org/resources/covid-19-resources): Multitud de fuentes de datos, visualizaciones, análisis, herramientas…
+
+[Open collaboration on COVID-19](https://github.blog/2020-03-23-open-collaboration-on-covid-19/): Recopilación colaborativa de gran variedad de recursos disponibles
+
+[Curso datahack Coronoravirus](https://m.youtube.com/watch?t=12s&v=NTUU7E1YNr4): Charla en español de datahack sobre el coronavirus y los modelos SIR
+
+[Cursos sobre Coronavirus](https://towardsdatascience.com/its-time-to-get-a-phd-in-coronavirus-cacf7e2e9e9f): En este enlace se muestran distintos cursos online que se estan publicando sobre el coronavirus. Se ven los modelos epidemiologicos que hay detras de la expansion de un virus
+
+[Johns Hopkins](https://coronavirus.jhu.edu/map.html): Representación de la evolución del coronavirus a lo largo del mundo
+
+[Covidly](http://covidly.com/): Cuadro de mando con Python sobre los principales indicadores del covid. De lo mejor que he visto y muy fácil de usar. Incluye algunos datos demográficos.
+
+[Informe movilidad de google](https://www.google.com/covid19/mobility/): Estadisticas de google de movilidad por paises
+
+[Matemáticas VS Covid-19](http://matematicas.uclm.es/cemat/covid19/):Iniciativa para recoger todos los estudios que se están haciendo desde distintas organizaciones públicas o privadas. Se pondrán a disposición de las instituciones para que puedan disponer de todos los estudios
+
+[Investigación Universidad Rey Juan Carlos](http://www.datasciencelab.es/research/projects/covid19/reports/covid19-report.html): Interesante estudio desde la universidad Rey Juan Carlos. Siguen el Índice se Suficiencia Sanitaria de cada comunidad y dan previsiones para desescalada
+
+[Coronavirus en R](https://towardsdatascience.com/top-5-r-resources-on-covid-19-coronavirus-1d4c8df6d85f): En este enlace vienen un monton de aplicaciones realizadas con Shiny de R, codigos de R, paquetes, … para seguir la evolución de la pandemia
+
+[Modelar pandemia](https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/una-crisis-csmica-798/cmo-modelizar-una-pandemia-18561): un artículo interesante sobre los modelos matemáticos que hay detrás de una pandemia de la revista investigación y ciencia
+
+[Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/)
+
+[Coronavirus: Why You Must Act Now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca)
+
+[Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
+
+[Herramientas gratuitas](https://docs.google.com/spreadsheets/d/1QdMr6TYlPLgc8nip165CyuDrr5WPcxnzqxJBJK_EfJ0/edit?usp=drivesdk) para estudio o durante el periodo del covid
+
+
 
 ## Data Science Escuela
 
@@ -195,17 +301,13 @@ En esta seccion iremos poniendo que herramientas o web son interesantes para que
 
 [Que se de tu imagen](http://cloud.google.com/vision/): sube una foto en el apartado de «Try The API» y verás todo lo que Google puede saber de una foto
 
-
 [Google trends](https://trends.google.es/trends/?geo=ES): Una de las herramientas de google. Puedes poner terminos de busqueda y ver como es su evolución temporal de busqueda. Muy interesante para aprender a interpretar gráficas, estacionalidades, anomalías. Un ejemplo es que los alumnos busquen por sus futbolistas favoritos, por ejemplo Messi y Ronaldo, o sus grupos de musica favoritos. Da eleccion de buscar por zonas geográficas o por diferentes horizontes de tiempo.
-
 
 [Learningml](https://learningml.org/): Si eres de los que aprendió o enseña a aprender con Scratch, échale un vistazo a esto
 
 [Wordclouds](http://www.wordclouds.com/): Una herramienta para realizar graficos donde se introduce un texto y se dibujan las palabras tan grandes como su frecuencia de aparición. Permite diferentes formas.
 
-
 [Pictionary automático](https://quickdraw.withgoogle.com/): Dibuja un objeto y deja que Google adivina lo que estás dibujando
-
 
 [Teachable machine learning](https://teachablemachine.withgoogle.com/): Iniciativa de google para mostrar como puede aprender un algoritmo de imagenes. Con solo una webcam puedes ver como aprende la vision artificial a reconocer objetos
 
@@ -215,14 +317,11 @@ En esta seccion iremos poniendo que herramientas o web son interesantes para que
 
 [Tu personalidad](https://personality-insights-demo.ng.bluemix.net/): Demo de IBM de detección de tu personalidad por lo que escribes. Prueba a introducir tu propio texto en el apartado fragmentos de texto y ve que resultados saca
 
-
 [Redes neuronales](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.68852&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false): juega con esta interfaz a resolver problemas de clasificación con redes neuronales. Mete más o menos capas y neuronas para ver cómo se resuelve el problema
 
 [Akinator](http://es.akinator.com/): Piensa en un personaje y la inteligencia artificial adivinara quién es en pocos pasos
 
-
 [Facebook data evaluation tool](https://fdvt.org/): Una herramienta para ser consciente de que valor tienen tus datos. En función de tu perfil y tú actividad, veras el valor que proporcionas a Facebook.
-
 
 [Microsoft Math Solver]: Aplicación para resolver ecuaciones con una foto. Lo más interesante aquí es el reconocimiento de imágenes para poder escribir la ecuación.
 
