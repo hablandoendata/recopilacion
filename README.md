@@ -39,6 +39,8 @@ La ciencia de datos es una de las disciplinas mas de moda de los ultimos años, 
 
 [Tidy Modelling with R](https://www.tmwr.org/): Libro sobre modelacion con los paquetes del universo de Tidy (dplyr, ggplot2,…)
 
+[INTELIGENCIA ARTIFICIAL Fundamentos, práctica y aplicaciones] (https://pdfcoffee.com/inteligencia-artificial-fundam-alberto-garcia-serrano-3-pdf-free.html) Libro introductorio sobre los fundamento de la IA con conceptos matematicos
+
 [Caret](http://topepo.github.io/caret/index.html): Libro sobre modelación con este famoso paquete de R. Optimiza tus
 
 [Series temporales basicas](https://media.readthedocs.org/pdf/a-little-book-of-r-for-time-series/latest/a-little-book-of-r-for-time-series.pdf): Libro básico de series temporales con introducción a los ARIMA
@@ -125,6 +127,8 @@ La ciencia de datos es una de las disciplinas mas de moda de los ultimos años, 
 
 [Quantum Computing](https://quantumzeitgeist.com/quantum-computing-courses/): Cursos de computación cuántica, gratuitos y de pago
 
+[Curso gratuito de ciencia de datos y salud](https://github.com/opensaludlab/ciencia_datos) ofrecido por OpenSalud Lab
+
 [Machine Learning Mastery](http://machinelearningmastery.com/start-here/): Jason Brownlee nos ofrece este tutorial, con un montón de documentación con ejemplos sobre machine learning. Con código R y Python de ejemplo. Muy interesante que nos ofrezca tutoriales según el nivel que tengamos. Tiene ebooks para completar las formaciones que son de pago, pero los tutoriales para comenzar ya están bastante bien por si solos.
 
 [Cursos gratuitos de analyticsvidhya](https://courses.analyticsvidhya.com/collections?category=free): Cursos sobre data science, con Python y R. Dentro de su catálogo contiene algunos gratuitos
@@ -197,7 +201,13 @@ Aqui se mostraran los enlaces a blogs, webs y canales mas interesantes sobre el 
 
 [Recopilación de Notebooks en Python](https://github.com/donnemartin/data-science-ipython-notebooks): Donne Martín nos ofrece una recopilación de Notebook con ejemplos de Scikit Learn, Deep Learning, Numpy, Scipy,… incluso algunos en la nube. Muy completa colección de notebooks
 
+[Recopilatorio de recursos](https://github.com/fearro/Data-science/blob/master/Repositorio.md) : Recopilatorio de recursos de Fernando Aragon
+
+[Libros](https://www.maximaformacion.es/blog-dat/libros-recomendados-sobre-estadistica-y-r/) y [recursos](https://www.maximaformacion.es/blog-dat/estadistica-r-libros-y-hojas-de-referencia-en-espanol/) sobre R recomendados por Rosana Ferrero 
+
 [Quiz de R](https://quizr.io/?code=4c8a2c21): Comprueba cuanto sabes sobre R
+
+[Blog sobre Bioinformatica y Bioestadistica](https://biologydatascience.wordpress.com/)
 
 [Pytorch](https://github.com/ritchieng/the-incredible-pytorch): Recopilación de tutoriales, ejemplos, papers,… Muy completo para principiantes y para usuarios avanzados de pytorch
 
@@ -261,6 +271,8 @@ Aqui se mostraran los enlaces a blogs, webs y canales mas interesantes sobre el 
 [Aprende SAS](http://aprendesas.blogspot.com/): Coordinado por Juan Vidal. Gran divulgador de todo lo relacionado con Machine Learning
 
 [Blog de R](http://blog-r.es/) Blog sobre cómo hacer visualizaciones y modelos estadísticos en R de Tomás Castaño Baena y Sergio Campos Moreno
+
+[Recursos](https://github.com/jfvenegasg) de Juan Venegas
 
 
 
