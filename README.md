@@ -39,7 +39,7 @@ La ciencia de datos es una de las disciplinas mas de moda de los ultimos años, 
 
 [Tidy Modelling with R](https://www.tmwr.org/): Libro sobre modelacion con los paquetes del universo de Tidy (dplyr, ggplot2,…)
 
-[INTELIGENCIA ARTIFICIAL Fundamentos, práctica y aplicaciones] (https://pdfcoffee.com/inteligencia-artificial-fundam-alberto-garcia-serrano-3-pdf-free.html) Libro introductorio sobre los fundamento de la IA con conceptos matematicos
+[INTELIGENCIA ARTIFICIAL Fundamentos, práctica y aplicaciones](https://pdfcoffee.com/inteligencia-artificial-fundam-alberto-garcia-serrano-3-pdf-free.html) Libro introductorio sobre los fundamento de la IA con conceptos matematicos
 
 [Caret](http://topepo.github.io/caret/index.html): Libro sobre modelación con este famoso paquete de R. Optimiza tus
 
@@ -55,7 +55,7 @@ La ciencia de datos es una de las disciplinas mas de moda de los ultimos años, 
 
 [Lista libros ebook foundation](https://ebookfoundation.github.io/free-programming-books/books/free-programming-books.html): Lista de libros gratuitos de ebook foundation. Entre todos los lenguajes hay muchos sobre R y sobre Python. Buenisima recopilación
 
-[Lista de libros por Analutycvidha](https://www.analyticsvidhya.com/blog/2020/12/14-free-data-science-books-to-add-tour-list-in-2020-to-upgrade-your-data-science-journey/): Interesante lista de libros que incluye desde uno sobre negocio, a otros mas complejos sobre optimizacion o matrices sparse
+[Lista de libros por Analitycvidha](https://www.analyticsvidhya.com/blog/2020/12/14-free-data-science-books-to-add-tour-list-in-2020-to-upgrade-your-data-science-journey/): Interesante lista de libros que incluye desde uno sobre negocio, a otros mas complejos sobre optimizacion o matrices sparse
 
 [Bookdown](https://bookdown.org/): Pagina donde se publican libros sobre R con markdown. Libros sobre muchos temas relacionados con R, por ejemplo analitica geoespacial, gráficos, forecasting,…
 
