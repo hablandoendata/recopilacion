@@ -207,6 +207,8 @@ Aqui se mostraran los enlaces a blogs, webs y canales mas interesantes sobre el 
 
 [Quiz de R](https://quizr.io/?code=4c8a2c21): Comprueba cuanto sabes sobre R
 
+[Metricas de evaluacion](https://aman.ai/primers/ai/evaluation-metrics/) Metricas para medir el efecto de los modelos
+
 [Blog sobre Bioinformatica y Bioestadistica](https://biologydatascience.wordpress.com/)
 
 [Pytorch](https://github.com/ritchieng/the-incredible-pytorch): Recopilación de tutoriales, ejemplos, papers,… Muy completo para principiantes y para usuarios avanzados de pytorch
@@ -315,6 +317,10 @@ Aqui se mostraran los enlaces a blogs, webs y canales mas interesantes sobre el 
 En esta seccion iremos poniendo que herramientas o web son interesantes para que los estudiantes vayan cogiendo el gusto por los datos y la estadistica
 
 [Que se de tu imagen](http://cloud.google.com/vision/): sube una foto en el apartado de «Try The API» y verás todo lo que Google puede saber de una foto
+
+[Por donde te moviste Google](http://myactivity.google.com/): Por donde te moviste segun google maps
+
+[Que sabe de ti Google](http://adssettings.google.es/): Que tiene registrado google de ti
 
 [Google trends](https://trends.google.es/trends/?geo=ES): Una de las herramientas de google. Puedes poner terminos de busqueda y ver como es su evolución temporal de busqueda. Muy interesante para aprender a interpretar gráficas, estacionalidades, anomalías. Un ejemplo es que los alumnos busquen por sus futbolistas favoritos, por ejemplo Messi y Ronaldo, o sus grupos de musica favoritos. Da eleccion de buscar por zonas geográficas o por diferentes horizontes de tiempo.
 
